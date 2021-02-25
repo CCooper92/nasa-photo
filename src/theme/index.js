@@ -1,4 +1,4 @@
-export default {
+const theme = {
     primaryColor:'#022E40', //grey
     secondaryColor: '#227373', //teal
     tertiaryColor:'#D9CDB8', //cream
@@ -13,3 +13,4 @@ export default {
     //     medium: '8px',
     // },
 };
+export default theme;
